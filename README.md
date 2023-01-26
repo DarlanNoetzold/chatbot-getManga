@@ -30,19 +30,6 @@ npm start <platform>
 
 Example: `/mangabot Naruto 698`
 
-<table>
-    <tr>
-        <td align="center">
-            <h3>WhatsApp</h3>
-            <img src="./files/whatsapp.png" width=400/>
-        </td>
-        <td align="center">
-            <h3>Telegram</h3>
-            <img src="./files/telegram.png" width=350/>
-            <a href="https://t.me/getmanga">Demo</a>
-        </td>
-    </tr>
-</table>
 
 ## Environment Variables
 
